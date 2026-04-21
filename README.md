@@ -137,16 +137,25 @@ Third, the original Landsat LST data had a spatial resolution of 30 m and were r
 
 Ground-truthing is necessary when applying this kind of GIS-based planning analysis in practice. In addition, future work could consider the dilution effect of large private and institutional green spaces on public green space demand, as well as topographic impedance, since simple Euclidean distance does not fully represent real accessibility in hilly landscapes. Future planning could also consider per capita green space exposure analysis for specific demographic groups.
 
-## Repository Structure
+## Project Structure
 
 ```text
-project/
-├── data/                # input data or sample/derived data if allowed
-├── maps/                # final maps used in the project
-├── figures/             # workflow charts, result figures, screenshots
-├── docs/                # original report or supplementary write-up
-├── scripts/             # ArcGIS / GEE / processing scripts if available
-└── README.md
+project-name/
+├─ doc/
+│  └─ GISbased_site_selection.doc
+├─ figure/
+│  ├─ ANGSt.png
+│  ├─ Comprehensive_sutability_Map.png
+│  ├─ DIstance.png
+│  ├─ IMD.png
+│  ├─ LISA_cluster_map.png
+│  ├─ Meff.png
+│  ├─ NDVI.png
+│  ├─ Top10percentage_suiable_place.png
+│  ├─ largest_community_garden_site.png
+│  ├─ pop_density.png
+│  └─ rooftop_garden_sites_selected.png
+└─ README.md
 ```
 ## Acknowledgements
 
