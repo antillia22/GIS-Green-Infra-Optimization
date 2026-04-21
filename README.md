@@ -90,6 +90,7 @@ For the rooftop greening scenario, Land Surface Temperature (LST) was additional
 
 The spatial datasets used in this project were obtained from a combination of UK open data sources and satellite-derived products. Administrative boundary and socio-economic data, including LSOA and IMD, were sourced from the Office for National Statistics (ONS). Public green space and natural site information were derived from Ordnance Survey Open Greenspace and Natural England datasets. In addition, near-infrared and red band imagery were derived from Copernicus Sentinel-2, while land surface temperature data were exported from Google Earth Engine.
 
+<img width="1584" height="1290" alt="Image" src="https://github.com/user-attachments/assets/9d86cfac-bd33-4ced-957a-22734782f69f" />
 
 ## Limitations
 
