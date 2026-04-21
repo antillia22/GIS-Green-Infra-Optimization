@@ -17,10 +17,13 @@ The comprehensive suitability map was generated through a weighted combination o
 
 Based on the composite suitability surface, the top 10% of high-suitability areas were identified as priority zones for potential intervention. These areas showed clustered spatial distribution rather than random dispersion, especially in peripheral communities in the southern and eastern parts of Greater Manchester.
 
-
 Local Moran’s I analysis further showed high spatial consistency between the top-ranked suitability areas and high-high clustering zones, which partially validates the statistical robustness of the identified priority areas.
 
+<h3>Local Moran's I cluster map</h3>
+<img src="figure/LISA_cluster_map.png" alt="Local Moran's I cluster map" width="800">
 
+<h3>Top 10% high-suitability areas</h3>
+<img src="figure/Top10percentage_suiable_place.png" alt="Top 10% high-suitability areas" width="800">
 
 ## Scenario-Based Outputs
 
@@ -151,6 +154,8 @@ Contains Ordnance Survey data © Crown copyright and database right (2024). Othe
 
 ## References
 Dennis, M. et al. (2020) ‘Relationships between health outcomes in older populations and urban green infrastructure size, quality and proximity’, BMC Public Health, 20(1), p. 626. Available at: https://doi.org/10.1186/s12889-020-08762-x.
+
+Natural England (2010) Nature Nearby: Accessible Natural Greenspace Guidance. Sheffield: Natural England.
 
 Dennis, M., Armitage, R.P. and James, P. (2016) ‘Appraisal of social-ecological innovation as an adaptive response by stakeholders to local conditions: Mapping stakeholder involvement in horticulture orientated green space management’, Urban Forestry & Urban Greening, 18, pp. 86–94. Available at: https://doi.org/10.1016/j.ufug.2016.05.010.
 
